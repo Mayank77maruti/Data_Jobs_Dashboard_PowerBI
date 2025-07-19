@@ -2,19 +2,19 @@
 
 > Helping freshers and aspiring data professionals make smarter career decisions using real-world job data.
 
-🎯 **Use Case:** Designed for students, career switchers, and job seekers new to data science—this dashboard answers the question:  
+**Use Case:** Designed for students, career switchers, and job seekers new to data science—this dashboard answers the question:  
 “What should I learn and which path pays off the most?”
 <p align="center">
   <img src="assets\Dashboard 1 gif.gif" width="49%" />
   <img src="assets\Dashboard 2 gif.gif" width="49%" />
 </p>
 
-🗂️ **Dashboard File:** [Download Power BI File](/Data_Jobs_Dashboard_PowerBI.pbix) 
+**Dashboard File:** [Download Power BI File](/Data_Jobs_Dashboard_PowerBI.pbix) 
 
 
 ---
 
-<h2 align="center"> 💡 What Problems Does This Dashboard Solve?</h2>
+<h2 align="center"> What Problems Does This Dashboard Solve?</h2>
 
 
 This dashboard was created to solve real struggles faced by **freshers and beginners in the data field**, such as:
@@ -37,7 +37,7 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 
 ---
 
-<h2 align="center">🔧 Data Process & Workflow</h2>
+<h2 align="center"> Data Process & Workflow</h2>
 
 
 ### 1. Data Preparation & ETL (Power Query)
@@ -86,10 +86,10 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 
 ---
 
-<h2 align="center">💡 Dashboard Pages Summary</h2>
+<h2 align="center">Dashboard Pages Summary</h2>
 
 
-### 📌 Page 1: Data Jobs Dashboard 
+### Page 1: Data Jobs Dashboard 
 
 ![Dashboard Preview](/assets/Power%20bi%20dashboard%201.png)
 
@@ -107,7 +107,7 @@ This dashboard was created to solve real struggles faced by **freshers and begin
 
 ---
 
-### 📌 Page 2: Job Title Drill Through
+### Page 2: Job Title Drill Through
 
 ![Dashboard Preview](/assets/Job%20drill%20through%20dashboard.png)
 
