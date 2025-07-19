@@ -153,14 +153,3 @@ Many freshers are overwhelmed when entering the data world—they don’t know w
 This dashboard acts as a **career compass**, helping them plan smartly based on **real-world job data**.
 
 ---
-
-
-## 📫 Contact
-
- ### **Pritish Kumar Singh**  
-If you'd like to connect, collaborate, or discuss improvements:
-
-- 📧 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
-- 🔗 GitHub: [https://github.com/PritishAnalyst](https://github.com/PritishAnalyst)
-- 🧑‍💼 LinkedIn: https://linkedin.com/in/pritish1298
-
