@@ -126,7 +126,7 @@ This **contextual deep-dive page** gets triggered when a user selects a specific
 
 ---
 
-### 📌 Page 3: Data Jobs Dashboard 2.0 
+### Page 3: Data Jobs Dashboard 2.0 
 
 ![Dashboard Preview](/assets/Power%20bi%20dashboard%202.png)
 
@@ -147,7 +147,7 @@ This **contextual deep-dive page** gets triggered when a user selects a specific
 
 ---
 
-## <h2 align="center">💡 Why It Matters ? </h2>
+## <h2 align="center"> Why It Matters ? </h2>
 
 Many freshers are overwhelmed when entering the data world—they don’t know which skills matter, what roles pay well, or where to start.  
 This dashboard acts as a **career compass**, helping them plan smartly based on **real-world job data**.
